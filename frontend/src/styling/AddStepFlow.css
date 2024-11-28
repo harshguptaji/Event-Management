@@ -1,0 +1,93 @@
+.add-step-container{
+    width: 25vw;
+    margin: auto;
+    margin-top: 10vw;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    padding: 0.5vw 2vw;
+}
+
+.add-step-title{
+    text-align: center;
+    font-size: 2vw;
+}
+.step-name, .step-description, .step-order, .step-tag{
+    font-size: 1.2vw;
+}
+
+.input-name-step {
+    border: none;
+    padding: 0.5vw;
+    width: 55%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 3vw;
+   }
+
+   .input-desc-step {
+    border: none;
+    padding: 0.5vw;
+    width: 52%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 0.7vw;
+   }
+
+   .input-order-step{
+    border: none;
+    padding: 0.5vw;
+    width: 52%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 3.5vw;
+   }
+
+   .input-tag-step {
+    border: none;
+    padding: 0.5vw;
+    width: 52%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 4.7vw;
+   }
+   
+   
+
+
+
+
+.reg-step-btn-div{
+    width: 40%;
+    margin: auto;
+}
+
+.reg-step-btn{
+    width: 100%;
+    padding: 0.6vw 0.8vw;
+    font-size: 1vw;
+    font-weight: 600;
+    border-radius: 0.4vw;
+    border: none;
+    cursor: pointer;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}

@@ -1,0 +1,143 @@
+.adminsInfo-container{
+    width: 50%;
+    margin: auto;
+    margin-top: 5vw;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 0.5vw 1.5vw 1.5vw 1.5vw;
+}
+.adminsInfo-title{
+    text-align: center;
+    font-size: 2vw;
+}
+
+
+/* CSS */
+.edit-admin-btn {
+    position: absolute;
+  background-color: #fff;
+  border: 1px solid #d5d9d9;
+  border-radius: 8px;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",sans-serif;
+  font-size: 13px;
+  line-height: 29px;
+  padding: 0 10px 0 11px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 100px;
+  left: 80%;
+}
+
+.edit-admin-btn:hover {
+  background-color: #f7fafa;
+}
+
+.edit-admin-btn:focus {
+  border-color: #008296;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  outline: 0;
+}
+.adminsInfo-1, .adminsInfo-2, .adminsInfo-3, .adminsInfo-4, .adminsInfo-5{
+    text-align: center;
+}
+.adminsInfo-11,.adminsInfo-22, .adminsInfo-33, .adminsInfo-44, .adminsInfo-55{
+    margin-right: 0.5vw;
+    font-size: 1.5vw;
+    font-weight: 600;
+}
+.adminsInfo-111, .adminsInfo-222, .adminsInfo-333, .adminsInfo-444, .adminsInfo-555{
+    font-size: 1.3vw;
+}
+.adminsInfo-6{
+    text-align: center;
+}
+.adminsInfo-66{
+    font-size: 1.5vw;
+    font-weight: 600;
+    text-align: center;
+}
+.adminsInfo-666{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 0.5vw;
+    flex-wrap: wrap;
+}
+.adminsInfo-666 li{
+    list-style: none;
+    margin-right: 0.2vw;
+    font-size: 1.2vw;
+}
+.adminsInfo-6666{
+    color: red;
+    font-size: 1.1vw;
+}
+
+.adminsInfo-7{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+.add-tag-container{
+    width: 50%;
+   
+}
+.add-tag-title{
+    text-align: center;
+    font-size: 1.3vw;
+}
+
+.add-tag-btn1 {
+  background-color: #fff;
+  border: 1px solid #d5d9d9;
+  border-radius: 8px;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",sans-serif;
+  font-size: 13px;
+  line-height: 29px;
+  padding: 0 10px 0 11px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 100px;
+  margin-left: 2vw;
+}
+
+.add-tag-btn1:hover {
+  background-color: #f7fafa;
+}
+
+.add-tag-btn1:focus {
+  border-color: #008296;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  outline: 0;
+}
+.select-tag{
+    border: none;
+    padding-left: 1vw;
+    background-color: #fff;
+  border: 1px solid #d5d9d9;
+  margin-left: 1.5vw;
+  height: 1.5vw;
+  width: 50%;
+}
+

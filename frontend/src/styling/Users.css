@@ -1,0 +1,216 @@
+.users-container{
+    position: absolute;
+    margin: auto;
+    margin-left: 23.2rem;
+    margin-top: 6rem;
+    width: 80.5%;
+}
+
+.users-title{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.add-user-btn{
+    position: absolute;
+    align-items: center;
+    background-color: rgba(240, 240, 240, 0.26);
+    border: 1px solid #DFDFDF;
+    border-radius: 0.5rem;
+    box-sizing: border-box;
+    color: #000000;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: Inter, sans-serif;
+    font-size: 1.3rem;
+    justify-content: center;
+    line-height: 28px;
+    padding: 0.5rem 0rem;
+    width: 15%;
+    text-decoration: none;
+    transition: all .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    right: 5%;
+  }
+  
+  .add-user-btn:active,
+  .add-user-btn:hover {
+    outline: 0;
+  }
+  
+  .add-user-btn:hover {
+    background-color: #FFFFFF;
+    border-color: rgba(0, 0, 0, 0.19);
+  }
+
+  .user-inner-container{
+    padding: 0%;  
+    
+  }
+  .user-inner-container li{
+    display: flex;
+  }
+  .user-inner-container1{
+    padding: 0%;
+    margin-top: 6rem;
+  }
+  .user-inner-container1 li{
+    list-style: none;
+  }
+  .flex1{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .user-inner-name1{
+    width: 16.6%;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-top: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+
+  .user-inner-number1{
+    width: 16.6%;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-top: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+  .user-inner-registration1{
+    width: 16.6%;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-top: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+  .user-inner-batch1{
+    width: 16.6%;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-top: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+
+  .user-inner-brand1{
+    width: 16.6%;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-top: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+
+  .user-inner-btn-delete1{
+    width: 16.6%;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+
+  .user-inner-name{
+    width: 16.6%;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding-top: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+
+  .user-inner-number{
+    width: 16.6%;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding-top: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+  .user-inner-reg{
+    width: 16.6%;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding-top: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+  .user-inner-batch{
+    width: 16.6%;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding-top: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+
+  .user-inner-brand{
+    width: 16.6%;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding-top: 0.7rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+
+  .user-inner-btn-div{
+    width: 16.6%;
+    font-size: 1.1rem;
+    font-weight: 500;
+    padding: 0.2rem 0rem;
+    text-align: center;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+
+  .user-del-btn{
+    align-items: center;
+    background-color: rgba(240, 240, 240, 0.26);
+    border: 1px solid #DFDFDF;
+    border-radius: 0.5rem;
+    box-sizing: border-box;
+    color: #000000;
+    cursor: pointer;
+    font-family: Inter, sans-serif;
+    font-size: 1.3rem;
+    justify-content: center;
+    line-height: 28px;
+    padding: 0.3rem 0rem;
+    width: 60%;
+    text-decoration: none;
+    transition: all .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .user-del-btn:active,
+  .user-del-btn:hover {
+    outline: 0;
+  }
+  
+  .user-del-btn:hover {
+    background-color: #FFFFFF;
+    border-color: rgba(0, 0, 0, 0.19);
+  }
+
+ 
+  
+  

@@ -1,0 +1,84 @@
+.analysis-container{
+    position: absolute;
+    margin: auto;
+    margin-left: 19.2vw;
+    margin-top: 6vw;
+    width: 80.5%;
+}
+
+.analysis-title{
+    text-align: center;
+    font-size: 2vw;
+}
+.data-null{
+    color: red;
+    text-align: center;
+    font-size: 1.5vw;
+}
+.event-analysis-title{
+    text-align: center;
+    font-size: 1.8vw;
+}
+.event-analysis-title1{
+    text-align: center;
+    font-size: 1.4vw;
+}
+.analysis-flex{
+    display: flex;
+    justify-content: center;
+    gap: 3vw;
+}
+.analysis-inner-container{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    width: 35vw;
+}
+.analysis-inner-container-title{
+    text-align: center;
+    font-size: 1.3vw;
+}
+
+.analysis-title-flex{
+    display: flex;
+    width: 35vw;
+    padding: 0%;
+    margin: 0%;
+}
+.analysis-title-flex li{
+    list-style: none;
+    text-align: center;
+    width: 33.33%;
+    font-size: 1.1vw;
+    font-weight: 600;
+    padding: 0.4vw 0vw;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+}
+.analysis-flex-1{
+    margin: 0%;
+    padding: 0%;
+}
+
+.analysis-flex-1 li{
+    list-style: none;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    align-content: center;
+}
+.analysis-flex-1-div{
+    width: 33.33%;
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: center;
+    padding: 0.3vw 0.1vw;
+    color: black;
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;    
+}
+
+.link:hover{
+    opacity: 0.5;
+}
+
+
+
+
+

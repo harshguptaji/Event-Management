@@ -1,0 +1,141 @@
+.add-customer-container{
+    width: 25vw;
+    margin: auto;
+    margin-top: 10vw;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    padding: 0.5vw 2vw;
+}
+
+.add-customer-title{
+    text-align: center;
+    font-size: 2vw;
+}
+.customer-registration, .customer-name, .customer-number, .customer-brand, .customer-branch{
+    font-size: 1.2vw;
+}
+
+.input-reg-customer {
+    border: none;
+    padding: 0.5vw;
+    width: 55%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 1vw;
+   }
+
+   .input-reg-name {
+    border: none;
+    padding: 0.5vw;
+    width: 55%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 2.7vw;
+   }
+
+   .input-reg-number{
+    border: none;
+    padding: 0.5vw;
+    width: 55%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 1.4vw;
+   }
+
+   .input-reg-brand {
+    border: none;
+    padding: 0.5vw;
+    width: 55%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 1.8vw;
+   }
+   
+   .input-reg-branch {
+    border: none;
+    padding: 0.5vw;
+    width: 55%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 1.8vw;
+   }
+
+   .input-reg-customer:focus {
+    outline-color: #e8e8e8;
+    background: #e8e8e8;
+    box-shadow: inset 10px 10px 40px #c5c5c5,
+           inset -10px -10px 40px #ffffff;
+    transition: 0.3s;
+   }
+
+   .login-password{
+    font-size: 1.2vw;
+  
+}
+
+.input-password {
+    border: none;
+    padding: 1rem;
+    width: 85%;
+    border-radius: 1rem;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+   }
+   
+   .input-password:focus {
+    outline-color: #e8e8e8;
+    background: #e8e8e8;
+    box-shadow: inset 10px 10px 40px #c5c5c5,
+           inset -10px -10px 40px #ffffff;
+    transition: 0.3s;
+   }
+
+.form-container{
+    margin: 2vw;
+}
+
+
+.reg-user-btn-div{
+    width: 30%;
+    margin: auto;
+}
+
+.reg-user-btn{
+    width: 100%;
+    padding: 0.6vw 0.8vw;
+    font-size: 1vw;
+    font-weight: 600;
+    border-radius: 0.4vw;
+    border: none;
+    cursor: pointer;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}

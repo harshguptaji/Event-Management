@@ -1,0 +1,61 @@
+.add-tag-container1{
+    width: 25vw;
+    margin: auto;
+    margin-top: 10vw;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    padding: 0.5vw 2vw;
+}
+
+.add-tag-title1{
+    text-align: center;
+    font-size: 1.8vw;
+}
+.add-tag-name1, .add-tag-description1 {
+    font-size: 1.2vw;
+}
+
+.input-name-tag1 {
+    border: none;
+    padding: 0.5vw;
+    width: 60%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 1.2vw;
+   }
+
+   .input-desc-tag1 {
+    border: none;
+    padding: 0.5vw;
+    width: 60%;
+    border-radius: 0.2vw;
+    background: #e8e8e8;
+    box-shadow: 10px 10px 40px #c5c5c5,
+           -10px -10px 40px #ffffff;
+    transition: 0.3s;
+    margin-bottom: 1.2vw;
+    margin-top: 1.2vw;
+    margin-left: 0.6vw;
+   }
+
+   
+.reg-event-btn-div1{
+    width: 50%;
+    margin: auto;
+}
+
+.reg-event-btn1{
+    width: 100%;
+    padding: 0.6vw 0.8vw;
+    font-size: 1vw;
+    font-weight: 600;
+    border-radius: 0.4vw;
+    border: none;
+    cursor: pointer;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+}

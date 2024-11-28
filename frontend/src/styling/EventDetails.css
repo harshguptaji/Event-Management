@@ -1,0 +1,143 @@
+.eventInfo-container{
+    width: 50%;
+    margin: auto;
+    margin-top: 5vw;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 0.5vw 1.5vw 1.5vw 1.5vw;
+    
+}
+.eventInfo-title{
+    text-align: center;
+    font-size: 2vw;
+}
+
+
+/* CSS */
+.edit-event-btn {
+    position: absolute;
+  background-color: #fff;
+  border: 1px solid #d5d9d9;
+  border-radius: 8px;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",sans-serif;
+  font-size: 13px;
+  line-height: 29px;
+  padding: 0 10px 0 11px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 100px;
+  left: 80%;
+}
+
+.edit-event-btn:hover {
+  background-color: #f7fafa;
+}
+
+.edit-event-btn:focus {
+  border-color: #008296;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  outline: 0;
+}
+.eventInfo-1, .eventInfo-2, .eventInfo-3, .eventInfo-4, .eventInfo-5{
+    text-align: center;
+}
+.eventInfo-11,.eventInfo-22, .eventInfo-33, .eventInfo-44, .eventInfo-55{
+    margin-right: 0.5vw;
+    font-size: 1.5vw;
+    font-weight: 600;
+}
+.eventInfo-111, .eventInfo-222, .eventInfo-333, .eventInfo-444, .eventInfo-555{
+    font-size: 1.3vw;
+}
+.eventInfo-6{
+    text-align: center;
+}
+.eventInfo-66{
+    font-size: 1.5vw;
+    font-weight: 600;
+    text-align: center;
+}
+.eventInfo-666{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    margin-top: 0.5vw;
+    flex-wrap: wrap;
+}
+.eventInfo-666 li{
+    list-style: none;
+    margin-right: 0.2vw;
+    font-size: 1.2vw;
+}
+.eventInfo-6666{
+    color: red;
+    font-size: 1.1vw;
+}
+
+.eventInfo-7{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+.add-user-container{
+    width: 50%;
+}
+.add-user-title{
+    text-align: center;
+    font-size: 1.3vw;
+}
+
+.add-user-btn1 {
+  background-color: #fff;
+  border: 1px solid #d5d9d9;
+  border-radius: 8px;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",sans-serif;
+  font-size: 13px;
+  line-height: 29px;
+  padding: 0 10px 0 11px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 100px;
+  margin-left: 2vw;
+}
+
+.add-user-btn1:hover {
+  background-color: #f7fafa;
+}
+
+.add-user-btn1:focus {
+  border-color: #008296;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  outline: 0;
+}
+.select-user{
+    border: none;
+    padding-left: 1vw;
+    background-color: #fff;
+  border: 1px solid #d5d9d9;
+  margin-left: 1.5vw;
+  height: 1.5vw;
+  width: 50%;
+}
+
